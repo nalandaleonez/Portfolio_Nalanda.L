@@ -8,7 +8,7 @@ Descrição: Página Web que mostra a base (crpo) do html, que serve para criar 
 
 Tecnologias utilisadas:
 
-JavaScript
+<ul>JavaScript</ul>
 
 <h1>Calcular Média</h1>
 Arquivo (s):
