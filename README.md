@@ -17,8 +17,10 @@ Descrição: Página Web para calcular média ponderada de duas notas com o peso
 
 Tecnologias utilizadas:
 
-JavaScript
-Google App Script
+<ul>JavaScript</ul>
+<ul>Google App Script</ul>
+
+Link para acesso ao projeto:
 
 
 
