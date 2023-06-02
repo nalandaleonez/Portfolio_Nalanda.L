@@ -2,14 +2,26 @@
 Portfólio para documentar o processo de aprendizado da disciplina de Programação Web.
 
 <h1>Base do html</h1>
+Arquivo (s):
 
-Descrição:  Essa é a base do html que serve para criar sites.
+Descrição: Página Web que mostra a base (crpo) do html, que serve para criar sites.
 
-Tecnologia utilisad: JavaScript
+Tecnologias utilisadas:
 
-Solução: Coloquei title e h1 para o conteúdo.
+JavaScript
 
 <h1>Calcular Média</h1>
+Arquivo (s):
+
+Descrição: Página Web para calcular média ponderada de duas notas com o peso, com um código utilizado para retornar o servidor para a página.
+
+Tecnologias utilizadas:
+
+JavaScript
+Google App Script
+
+
+
 
   
   
