@@ -22,6 +22,17 @@ Tecnologias utilizadas:
 
 Link para acesso ao projeto: https://script.google.com/macros/s/AKfycbxSEI-kueAcR_Lrjw3AHEquAdv9HL6ShInQJmvQD5yQXJlmABdn63R0Y5XccQ6vSWNQ/exec
 
+<h1>Calcular Média ponderada</h1>
+Arquivo (s):
+
+Descricão: Página Web para calcular média ponderada de duas notas, sem retorno para o servidor.
+
+Tecnologias utilizadas:
+
+<ul>JavaScript</ul>
+
+Link para acesso ao projeto: 
+
 
 
 
