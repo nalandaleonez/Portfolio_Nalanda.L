@@ -13,14 +13,14 @@ Tecnologias utilisadas:
 <h1>Calcular Média</h1>
 Arquivo (s):
 
-Descrição: Página Web para calcular média ponderada de duas notas com o peso, com um código utilizado para retornar o servidor para a página.
+Descrição: Página Web para calcular média ponderada de duas notas com o peso, com um código utilizado para retornar do servidor para a página.
 
 Tecnologias utilizadas:
 
 <ul>JavaScript</ul>
 <ul>Google App Script</ul>
 
-Link para acesso ao projeto: 
+Link para acesso ao projeto: https://script.google.com/macros/s/AKfycbyAaQa3FjZxgiRPV5w0G9nNvr3HjgU7uIbVi5S05PSwcLqrWDkoY68lhZ2W08bg7bMM/exec
 
 <h1>Calcular Média ponderada</h1>
 Arquivo (s):
