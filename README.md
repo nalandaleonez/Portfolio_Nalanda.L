@@ -20,7 +20,7 @@ Tecnologias utilizadas:
 <ul>JavaScript</ul>
 <ul>Google App Script</ul>
 
-Link para acesso ao projeto: https://script.google.com/macros/s/AKfycbxSEI-kueAcR_Lrjw3AHEquAdv9HL6ShInQJmvQD5yQXJlmABdn63R0Y5XccQ6vSWNQ/exec
+Link para acesso ao projeto: 
 
 <h1>Calcular Média ponderada</h1>
 Arquivo (s):
