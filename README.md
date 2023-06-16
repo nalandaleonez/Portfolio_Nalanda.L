@@ -41,6 +41,8 @@ Descrição: Código do POST para receber os dados do servidor e enviar para a p
 Tecnologias utilizadas:
 
 <ul>JavaScript</ul>
+<ul>Planilhas Google</ul>
+<ul>Google Drive</ul>
 
 Link para acesso ao projeto: https://script.google.com/macros/s/AKfycbyN7lsks5pF6-H4v7zzSumbiGfRK6VbBnAsHe4zL9DvLEs67aalQL2LG4Hf4p6Ooy6XXw/exec
 
