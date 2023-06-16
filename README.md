@@ -33,6 +33,17 @@ Tecnologias utilizadas:
 
 Link para acesso ao projeto: https://script.google.com/macros/s/AKfycbxHVf64x7bNRIr3s403OY7Kbo3LQMn_Zy5xGR1QeJMV7sWhsZQt_4nGTnsoJjWV8xu4vw/exec
 
+<h1>Planilha de livros</h1>
+Arquivo (s):
+
+Descrição: Código do POST para receber os dados do servidor e enviar para a planilha do google.
+
+Tecnologias utilizadas:
+
+<ul>JavaScript</ul>
+
+Link para acesso ao projeto: 
+
 
 
 
