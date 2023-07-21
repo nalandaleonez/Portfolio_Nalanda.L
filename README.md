@@ -8,7 +8,9 @@ Descrição: Página Web que mostra a base (corpo) do html, que serve para criar
 
 Tecnologias utilisadas:
 
-<ul>JavaScript</ul>
+<ul>
+<li>JavaScript</li>
+</ul>
 
 <h1>Calcular Média</h1>
 Arquivo (s):
@@ -17,8 +19,10 @@ Descrição: Página Web para calcular média ponderada de duas notas com o peso
 
 Tecnologias utilizadas:
 
-<ul>JavaScript</ul>
-<ul>Google App Script</ul>
+<ul>
+<li>JavaScript</li>
+<li>Google App Script</li>
+</ul>
 
 Link para acesso ao projeto: https://script.google.com/macros/s/AKfycbyAaQa3FjZxgiRPV5w0G9nNvr3HjgU7uIbVi5S05PSwcLqrWDkoY68lhZ2W08bg7bMM/exec
 
