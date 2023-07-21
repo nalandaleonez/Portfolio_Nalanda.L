@@ -37,7 +37,13 @@ Link para acesso ao projeto: https://script.google.com/macros/s/AKfycbxHVf64x7bN
 <h1>Login</h1>
 Arquivo (s):
 
-Descrição: 
+Descrição:  Página web que envie ao servidor, dados de e-mail e senha fornecidos por um usuário.
+
+Tecnologias utilizadas:
+
+<ul>Google App Script</ul>
+
+Link para acesso ao projeto:
 
 <h1>Planilha de livros</h1>
 Arquivo (s):
