@@ -57,7 +57,7 @@ Link para acesso ao projeto:
 <h1>Formulário</h1
 Arquivo (s):
 
-Descrição: Estruturar o formulário HTML com a tag <form> e </form>, enviando o formulário para o servidor utilizando o método “POST”: Função de receber os dados do formulário, ou “GET”: Função que retorna a URL da aplicação. 
+Descrição: Enviar o formulário para o servidor utilizando o método “POST”: Função de receber os dados do formulário, ou “GET”: Função que retorna a URL da aplicação. 
 
 Tecnologias utilizadas:
 
