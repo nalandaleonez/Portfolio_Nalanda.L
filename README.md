@@ -84,7 +84,19 @@ Tecnologias utilizadas:
 
 Link para acesso ao projeto: https://script.google.com/macros/s/AKfycbyN7lsks5pF6-H4v7zzSumbiGfRK6VbBnAsHe4zL9DvLEs67aalQL2LG4Hf4p6Ooy6XXw/exec
 
-<h1></h1>
+<h1>Lista de exercício tipo 2</h1>
+Arquivo (s):
+
+Descrição: Página Web para desenvolverum projeto Google App Script que contenha um formulário HTML, com uma função para calcular o valor gasto com a merenda em um mês. Em seguida, alterei o projeto para que os dados do formulário sejam enviados por meio do método POST do protocolo HTTP, calculando o valor final e exibindo no log do servidor.
+
+Tecnologias utilizadas:
+
+<ul>
+<li>JavaScript</li>
+<li>Gloogle App Script</li>
+</ul>
+
+Link para acesso ao projeto: 
 
 
 
