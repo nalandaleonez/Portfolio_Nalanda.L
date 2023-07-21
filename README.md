@@ -33,8 +33,10 @@ Descricão: Página Web para calcular média ponderada de duas notas, sem retorn
 
 Tecnologias utilizadas:
 
-<ul>JavaScript</ul>
-<ul>Google App Script</ul>
+<ul>
+<li>JavaScript</li>
+<li>Google App Script</li>
+</ul>
 
 Link para acesso ao projeto: https://script.google.com/macros/s/AKfycbxHVf64x7bNRIr3s403OY7Kbo3LQMn_Zy5xGR1QeJMV7sWhsZQt_4nGTnsoJjWV8xu4vw/exec
 
@@ -45,7 +47,10 @@ Descrição: Página Web que envie ao servidor, dados de e-mail e senha fornecid
 
 Tecnologias utilizadas:
 
-<ul>Google App Script</ul>
+<ul>
+  <li>JavaScript</li>
+  <li>Google App Script</li>
+</ul>
 
 Link para acesso ao projeto:
 
@@ -56,7 +61,10 @@ Descrição: Estruturar o formulário HTML com a tag <form> e </form>, enviando 
 
 Tecnologias utilizadas:
 
-<ul>Google App Script</ul>
+<ul>
+  <li>JsvaScript</li>
+  <li>Google App Script</li>
+</ul>
 
 <h1>Planilha de livros</h1>
 Arquivo (s):
@@ -65,10 +73,12 @@ Descrição: Código do POST para receber os dados do servidor e enviar para a p
 
 Tecnologias utilizadas:
 
-<ul>JavaScript</ul>
-<ul>Planilhas Google</ul>
-<ul>Google Drive</ul>
-<ul>Google App Script</ul>
+<ul>
+<li>JavaScript</li>
+<li>Planilhas Google</li>
+<li>Google Drive</li>
+<li>Google App Script</li>
+</ul>
 
 Link para acesso ao projeto: https://script.google.com/macros/s/AKfycbyN7lsks5pF6-H4v7zzSumbiGfRK6VbBnAsHe4zL9DvLEs67aalQL2LG4Hf4p6Ooy6XXw/exec
 
