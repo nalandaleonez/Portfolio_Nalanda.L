@@ -48,7 +48,7 @@ Link para acesso ao projeto:
 <h1>Formulário</h1
 Arquivo (s):
 
-Descrição: Função POST que recebe os dados do formulário
+Descrição: Estruturar o formulário HTML com a tag <form> e </form>, enviando o formulário para o servidor utilizando o método “POST”:Função de receber os dados do formulário ou “GET”: Função 
 
 <h1>Planilha de livros</h1>
 Arquivo (s):
