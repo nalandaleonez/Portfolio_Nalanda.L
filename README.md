@@ -66,7 +66,9 @@ Tecnologias utilizadas:
   <li>Google App Script</li>
 </ul>
 
-Link para acesso ao projeto:
+Error: O script foi concluído, mas não retornou nenhum valor.
+
+Link para acesso ao projeto: https://script.google.com/macros/s/AKfycbzVYezLeXGacC8gomNBlFn5nzCW3W1l_5blZE5QrUWAd3AM5dYJuybYKCEtNG0MQ3azjg/exec
 
 <h1>Planilha de livros</h1>
 Arquivo (s):
@@ -98,7 +100,8 @@ Tecnologias utilizadas:
 
 Dificuldades: Não consegui exibir no log do servidor, na função do código, na segunda parte do projeto.
 
-Link para acesso ao projeto: https://script.google.com/macros/s/AKfycbyBuxdtlY91JvYRvS7Bb0bHvk5U-AzxikH86xt3VLI4m3Fr2-5gcEJwXc8NZm18vijE/exec
+Link para acesso ao projeto (primeira parte): https://script.google.com/macros/s/AKfycbyBuxdtlY91JvYRvS7Bb0bHvk5U-AzxikH86xt3VLI4m3Fr2-5gcEJwXc8NZm18vijE/exec
+Link para acesso ao projeto (segunda parte): https://script.google.com/macros/s/AKfycbyIFRjVbC5TH5PKp9Vl47FLX1ZTpUGkVKWl5JQPRRJPN0PsSCFXJ028WWFPDuScNql3UQ/exec
 
 
 
