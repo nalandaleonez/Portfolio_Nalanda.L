@@ -37,7 +37,7 @@ Link para acesso ao projeto: https://script.google.com/macros/s/AKfycbxHVf64x7bN
 <h1>Login</h1>
 Arquivo (s):
 
-Descrição:  Página Web que envie ao servidor, dados de e-mail e senha fornecidos por um usuário.
+Descrição: Página Web que envie ao servidor, dados de e-mail e senha fornecidos por um usuário.
 
 Tecnologias utilizadas:
 
@@ -48,7 +48,7 @@ Link para acesso ao projeto:
 <h1>Formulário</h1
 Arquivo (s):
 
-Descrição: Estruturar o formulário HTML com a tag <form> e </form>, enviando o formulário para o servidor utilizando o método “POST”:Função de receber os dados do formulário ou “GET”: Função 
+Descrição: Estruturar o formulário HTML com a tag <form> e </form>, enviando o formulário para o servidor utilizando o método “POST”: Função de receber os dados do formulário, ou “GET”: Função que retorna a URL da aplicação. 
 
 <h1>Planilha de livros</h1>
 Arquivo (s):
