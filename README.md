@@ -96,7 +96,12 @@ Tecnologias utilizadas:
 <li>Gloogle App Script</li>
 </ul>
 
-Link para acesso ao projeto: 
+Dificuldades: Não consegui exibir no log do servidor, na parte da função do código, na segunda parte do projeto.
+
+Error:
+
+Link para acesso ao projeto: https://script.google.com/macros/s/AKfycbyBuxdtlY91JvYRvS7Bb0bHvk5U-AzxikH86xt3VLI4m3Fr2-5gcEJwXc8NZm18vijE/exec
+
 
 
 
