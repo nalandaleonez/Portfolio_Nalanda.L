@@ -4,7 +4,7 @@ Portfólio para documentar o processo de aprendizado da disciplina de Programaç
 <h1>Base do html</h1>
 Arquivo (s):
 
-Descrição: Página Web que mostra a base (crpo) do html, que serve para criar sites.
+Descrição: Página Web que mostra a base (corpo) do html, que serve para criar sites.
 
 Tecnologias utilisadas:
 
@@ -30,6 +30,7 @@ Descricão: Página Web para calcular média ponderada de duas notas, sem retorn
 Tecnologias utilizadas:
 
 <ul>JavaScript</ul>
+<ul>Google App Script</ul>
 
 Link para acesso ao projeto: https://script.google.com/macros/s/AKfycbxHVf64x7bNRIr3s403OY7Kbo3LQMn_Zy5xGR1QeJMV7sWhsZQt_4nGTnsoJjWV8xu4vw/exec
 
